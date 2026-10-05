@@ -1,0 +1,6 @@
+{
+  "name": "Myra",
+  "description": "Myra (मायरा) – Multi-capable intelligent AI assistant with sleep/background mode, screen & vision analysis, travel translation, code debugging, and task workflow hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
